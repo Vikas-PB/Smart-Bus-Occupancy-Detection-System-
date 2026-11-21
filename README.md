@@ -1,6 +1,7 @@
 # Smart-Bus-Occupancy-Detection-System-
 
 Project Overview
+
 The Smart Bus Occupancy Detection System is designed to monitor the number of passengers inside a bus and provide occupancy information through an IoT-based dashboard.
 The system uses IR sensors to detect passengers entering and exiting the bus. A camera-based detection system is also planned to verify passenger counts. The collected data will be processed and displayed through the Blynk IoT dashboard.
 he project is currently being developed as a miniature bus prototype.
