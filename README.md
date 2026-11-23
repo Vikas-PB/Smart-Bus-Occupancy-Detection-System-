@@ -51,9 +51,9 @@ Name                USN
 
 Vikas P B          1CR25EC243
 
-Sneha S            1CR25EC206
+Sneha S            1CR25EC209
 
-Shashank D L R     1CR25EC196
+Shashank D L R     1CR25EC195
 
 Institution :CMR Institute of Technology
 
